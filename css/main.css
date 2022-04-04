@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 1.5rem;
   padding: 1rem;
   background-color: #f5f2f0;
   color: #623b0c;
@@ -30,7 +30,7 @@ h1 {
 ol {
   display: grid;
   margin: 0;
-  padding: 1rem;
+  padding: 0;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
 }
